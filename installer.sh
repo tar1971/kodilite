@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tar1971/kodilite/main/installer1.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tar1971/kodilite/main/installer.sh -O - | /bin/sh
 ##
 #!/bin/sh
 echo
