@@ -10,8 +10,9 @@ exit 0
 #!/bin/bash
 ######################################################################################
 ## Command=wget https://raw.githubusercontent.com/tar1971/kodilite/main/installer1.sh -O - | /bin/sh
-
 wait
+sleep 2;
+exit 0
 #########################################################
 PACKAGE_DIR='tar1971/kodilite/main'
 MY_FILE="tar1971/kodilite"
